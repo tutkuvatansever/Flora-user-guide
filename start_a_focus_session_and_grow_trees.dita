@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="start_a_focus_session_and_grow_trees">
+    <title>Start a focus session and grow trees</title>
+    <conbody>
+        <p>When you start a focus session, Flora eliminates all distractions like social media and
+            games. Every focus session plants a seed that grows into a tree by the end of the
+            session. These trees, then, become a part of your beautiful Flora garden.</p>
+        <p>
+            <xref
+                href="start_a_focus_session.dita"/>    
+        </p>
+    </conbody>
+</concept>

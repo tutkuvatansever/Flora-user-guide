@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_to_do_items">
+    <title>Create to-do items</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the <uicontrol>Garden</uicontrol> menu, and then tap the <uicontrol>To-dos</uicontrol> tab.</cmd>
+            </step>
+            <step>
+                <cmd>To add a new item, tap <uicontrol>+</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a <uicontrol>Name</uicontrol> for your to-do item. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Optional: Specify time management settings for the to-do item: </cmd>
+                <substeps>
+                    <substep>
+                        <cmd>To set a <uicontrol>Reminder</uicontrol> to start focusing on an item, select the time and the
+                            days when you would like to receive notifications. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Set a Goal for completing the to-do item.</cmd>
+                        <stepxmp>If you aim to complete this to-do item in 3 hours, select
+                                <uicontrol>3 h</uicontrol>.</stepxmp>
+                    </substep>
+                    <substep>
+                        <cmd>Decide if you want to reset the goal on a <uicontrol>Daily</uicontrol>,
+                                <uicontrol>Weekly</uicontrol>, or <uicontrol>Monthly</uicontrol>
+                            basis. </cmd>
+                        <stepxmp>If you want to set aside 3 hours every day for this to-do item,
+                            select <uicontrol>Daily</uicontrol>. </stepxmp>
+                    </substep>
+                    <substep>
+                        <cmd>To track your habits, set <uicontrol>Habit Tracker</uicontrol> to
+                                <uicontrol>Weekly</uicontrol> or <uicontrol>Monthly</uicontrol>.
+                        </cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

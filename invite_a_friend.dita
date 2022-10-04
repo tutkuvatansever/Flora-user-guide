@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="invite_a_friend">
+    <title>Invite a friend</title>
+    <taskbody>
+        <context>
+            <p>To invite a friend to your focus session, follow these steps:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the home screen, tap <uicontrol>Key</uicontrol> to see the passcode to your
+                    focus session.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Share</uicontrol> to share the passcode with your friends.</cmd>
+            </step>
+            <step>
+                <cmd>Make sure your friend goes to the same page and enters the password to join your focus session. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="start_a_focus_session">
+    <title>Start a focus session</title>
+    <taskbody>
+        <context>
+            <p>Starting a focus session plants a seed that grows into a tree at the end of your
+                focus session.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>For the <uicontrol>Focus Timer</uicontrol>, select for how long you would like
+                    to focus.</cmd>
+            </step>
+            <step>
+                <cmd>For the <uicontrol>Break Timer</uicontrol>, select how many minutes of break you would like to have after your focus session.
+                </cmd>
+            </step>
+            <step>
+                <cmd>If you want this focus session to count towards one of the to-do items you’ve set, tap <uicontrol>Attach a Tag</uicontrol> and select the to-do item from the list.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Start</uicontrol> to begin the focus session.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

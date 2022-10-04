@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="stay_focused_with_your_friends">
+    <title>Stay focused with your friends</title>
+    <conbody>
+        <p>You can invite your friends to your focus session. If you both stay focused for the
+            entire session, you can add an additional tree to your garden! </p>
+        <p>
+            <xref
+                href="invite_a_friend.dita"/>    
+        </p>
+    </conbody>
+</concept>

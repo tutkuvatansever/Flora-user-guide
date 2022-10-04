@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="create_a_to_do_list">
+    <title>Create a to-do list</title>
+    <conbody>
+        <p>To-do items can be daily, weekly or monthly goals. You can set up reminders and dedicate
+            your focus sessions to specific to-do items. Flora helps you stay organized and track
+            your progress towards your goals.</p>
+        <p/>
+        <p>
+            <xref
+                href="create_to_do_items.dita"/>    
+        </p>
+    </conbody>
+</concept>

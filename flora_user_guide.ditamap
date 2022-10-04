@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Flora user guide</title>
+    <topicref href="get_started_with_flora.dita">
+        <topicref href="start_a_focus_session_and_grow_trees.dita"/>
+        <topicref href="stay_focused_with_your_friends.dita"/>
+        <topicref href="create_a_to_do_list.dita"/>
+    </topicref>
+    <topicref href="start_a_focus_session.dita"/>
+    <topicref href="invite_a_friend.dita"/>
+    <topicref href="create_to_do_items.dita"/>
+</map>
